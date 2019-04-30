@@ -20,4 +20,6 @@ def dif_ss(a,b):
     
     return square_of_sum - sum_squares
 
-dif_ss(1,101)
+
+if __name__ == '__main__':
+    dif_ss(1,101)
